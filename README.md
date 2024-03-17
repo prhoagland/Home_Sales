@@ -1,2 +1,3 @@
 # Home_Sales
-repo for module 22 challenge
+All code written by Peter Hoagland
+Python code for activity is in file Home_Sales_colab.ipynb located in "Starter_Code" folder.
